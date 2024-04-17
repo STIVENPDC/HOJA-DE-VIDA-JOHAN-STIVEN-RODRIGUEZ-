@@ -1,9 +1,22 @@
 body{
-
+     
 
 
     background-color: bisque;
+    background-image: url(https://tse3.mm.bing.net/th/id/OIG3.KCyMNhXTAx_oc2gTTasI?pid=ImgGn);
+    background-repeat: no-repeat;
+    background-position: 50px 25px;
+    background-position: 20% 10%;
+    
+   background-position: left top;
+   background-position: left center;
+   background-position: center center;
+   height: 1800px;
+   background-attachment: fixed;
+   background-size: cover;
+
 }
+
 
 
 
@@ -11,11 +24,11 @@ body{
 nav{
     text-align: center;
     margin: 4px;
-    background-color: cadetblue;
+    background-color: rgba(95, 158, 160, 0.411);
     box-shadow: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-radius: 40px;
-      
+    background-image: url(https://tse2.mm.bing.net/th/id/OIG1.NHS0eDtC8.TfLjPsW868?w=1024&h=1024&rs=1&pid=ImgDetMain);
 
 
 
@@ -43,18 +56,43 @@ nav ul li{
 
 nav ul li a{
         text-decoration: none;
-       color: rgb(252, 252, 252);
+       color: rgb(3, 1, 1);
        transition: color 0.5s ease; 
        border-radius: 50px;
-       background-color: black;
-       
+       background-color: rgba(219, 219, 182, 0.644);
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
        border: solid rgba(243, 240, 240, 0.418);
+
 }
 
 
+.tituloindex{
+       background-image: url(https://tse2.mm.bing.net/th/id/OIG1.NHS0eDtC8.TfLjPsW868?w=1024&h=1024&rs=1&pid=ImgDetMain);
+       padding: 10px;
+       text-align: center;
+       border-radius: 45px;
+       border-color: black;
+       margin: px;
+       
+ 
+
+}     
 
 
+ .tituloindex h1{
+                 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                  color: rgba(223, 230, 230, 0.61);
+                  
+           
+                 
 
+ }
 
+.tituloindex h2{
+             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+             color: rgba(236, 237, 250, 0.61);
+  
+ }
 
+ 
 
